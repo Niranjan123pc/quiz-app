@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flask App</title>
+</head>
+<body>
+    <h1>Welcome to Flask</h1>
+    <p>This is the base page.</p>
+    <a href="/dashboard">Go to Dashboard</a>
+</body>
+</html>
