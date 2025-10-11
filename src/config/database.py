@@ -68,3 +68,4 @@ def updateRaw(query):
     else:
         print("Could not connect")
 
+"jbvckjkjdf"
